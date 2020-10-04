@@ -11,8 +11,8 @@
 
 Clone the repo:
 ```sh
-git clone https://github.com/shubhabundela071/nodejs.git
-cd nodejs
+git clone https://github.com/shubhabundela071/insuranceCompany_nodejs.git
+cd insuranceCompany_nodejs
 ```
 
 Install dependencies:
