@@ -1,0 +1,6 @@
+public/*
+.env
+.idea
+node_modules/*
+config/*
+middlewares/aws.json
